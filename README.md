@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anupama jayawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupama jayawardana" height="30" width="40" /></a>
-<a href="https://fb.com/anupama jayawradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupama jayawradana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009660497245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupama jayawradana" height="30" width="40" /></a>
 <a href="https://instagram.com/_razscull_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_razscull_" height="30" width="40" /></a>
 </p>
 
