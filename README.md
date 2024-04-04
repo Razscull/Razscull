@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Razscull</h1>
 <h3 align="center">Mechanical Engineer ⚙️🤖🚗</h3>
-
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gIjDNYiuNe0Ug/giphy.gif?cid=790b7611hwjp2ygdpmsjrhhb8cvyeu7ore2vz1j5js8o4hcl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razscull&label=Profile%20views&color=0e75b6&style=flat" alt="razscull" /> </p>
 
 <h3 align="left">Connect with me:</h3>
