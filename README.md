@@ -5,6 +5,11 @@
 <h3 align="center">I'm a third year undergraduate from Mechanical Engineering Department of University of Peradeniya ⚙️🤖🚗</h3>
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gIjDNYiuNe0Ug/giphy.gif?cid=790b7611hwjp2ygdpmsjrhhb8cvyeu7ore2vz1j5js8o4hcl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+<h2>Blogging 💻</h2>
+<p> 1️⃣   -  https://farmingefacvision.wordpress.com/</p>
+<p> 2️⃣    - https://diginpwa.wordpress.com/</p>
+<p> 3️⃣    - https://eportfoliobykavindya.wordpress.com/</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anupama jayawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupama jayawardana" height="30" width="40" /></a>
